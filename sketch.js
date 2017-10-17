@@ -7,9 +7,9 @@ var colorList=[
   '#A1D668',
   '#EEEF61'
   ]
-var i = 9;
+var i = 5;
 function setup() {
-  createCanvas(1000,1000);
+  createCanvas(500,500);
   frameRate(4);
 }
 
